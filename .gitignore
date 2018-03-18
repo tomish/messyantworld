@@ -1,0 +1,7 @@
+*.npz
+*.pyc
+*.pdf
+*.ply
+*.py~
+notebooks/data/*
+notebooks/.ipynb_checkpoints/*
